@@ -4,7 +4,7 @@ Submitted by: Jose Jauregui
 
 Wishlist is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
